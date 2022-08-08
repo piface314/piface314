@@ -1,3 +1,5 @@
+<img src="./banner.png" align="center">
+
 # `Hello, World! :D`
 
 I'm Henrique Santana, but you can call me Pi (from the number/greek letter π).
