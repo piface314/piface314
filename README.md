@@ -6,7 +6,7 @@ I'm Henrique Santana, but you can call me Pi (from the number/greek letter π).
 
 - 🎓 Computer Science Major at Universidade Federal de Viçosa - Campus Florestal;
 - 🔭 Aiming to be a researcher, or a game developer, or something in between :P;
-- 🔍 Research topics include networks, distributed systems, programming languages and compilers;
+- 🔍 Research interests include networks, distributed systems and programming languages;
 - 💾 Free Software enthusiast;
 - 🐉 Spring green is my favorite color;
 - 🪡 Passionate about learning (and developing) new languages, tools, frameworks and libraries;
